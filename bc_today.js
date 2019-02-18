@@ -5,8 +5,8 @@
    Case Problem 2
 
    Today at the Union Script
-   Author: 
-   Date:   
+   Author: Millione Johnson 
+   Date: 2/18/19  
    
    This script uses the getEvent() function to return the
    HTML code containin the daily events at the Bridger College
